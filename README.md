@@ -1,4 +1,4 @@
 :wave: Hi, my name is Zhao Wen and go by the name of Joan
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ybqdren)](https://github.com/anuraghazra/github-readme-stats)
+[![Joan's github stats](https://github-readme-stats.vercel.app/api?username=ybqdren)](https://github.com/anuraghazra/github-readme-stats)
