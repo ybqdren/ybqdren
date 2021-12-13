@@ -12,7 +12,7 @@ More about me： [polywork](https://www.polywork.com/equalandfalse).
 
 **🐱 My GitHub Data** 
 
-> 🏆 297 Contributions in the Year 2021
+> 🏆 295 Contributions in the Year 2021
  > 
 > 📦 73.0 kB Used in GitHub's Storage 
  > 
