@@ -6,15 +6,13 @@ More about me： [polywork](https://www.polywork.com/equalandfalse).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 295 Contributions in the Year 2021
+> 🏆 299 Contributions in the Year 2021
  > 
-> 📦 73.0 kB Used in GitHub's Storage 
+> 📦 73.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,9 +23,9 @@ More about me： [polywork](https://www.polywork.com/equalandfalse).
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    84 commits     █████░░░░░░░░░░░░░░░░░░░░   23.4% 
-🌆 Daytime    214 commits    ███████████████░░░░░░░░░░   59.61% 
-🌃 Evening    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
+🌞 Morning    84 commits     █████░░░░░░░░░░░░░░░░░░░░   23.27% 
+🌆 Daytime    215 commits    ███████████████░░░░░░░░░░   59.56% 
+🌃 Evening    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
 🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11%
 
 ```
