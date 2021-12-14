@@ -6,11 +6,13 @@ More about me： [polywork](https://www.polywork.com/equalandfalse).
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%202%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 299 Contributions in the Year 2021
+> 🏆 300 Contributions in the Year 2021
  > 
 > 📦 73.1 kB Used in GitHub's Storage 
  > 
@@ -23,10 +25,10 @@ More about me： [polywork](https://www.polywork.com/equalandfalse).
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    84 commits     █████░░░░░░░░░░░░░░░░░░░░   23.27% 
-🌆 Daytime    215 commits    ███████████████░░░░░░░░░░   59.56% 
-🌃 Evening    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11%
+🌞 Morning    84 commits     █████░░░░░░░░░░░░░░░░░░░░   23.2% 
+🌆 Daytime    216 commits    ███████████████░░░░░░░░░░   59.67% 
+🌃 Evening    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
 
 ```
 
@@ -69,6 +71,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ybqdren/ybqdren/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/12/2021
+ Last Updated on 14/12/2021
 <!--END_SECTION:waka-->
 
