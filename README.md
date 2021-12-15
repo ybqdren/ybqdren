@@ -1,5 +1,5 @@
 :wave: Hi, my name is Zhao Wen and go by the name of Joan.
-More about me： [polywork](https://www.polywork.com/equalandfalse).
+More about me： [linkedin](https://www.linkedin.com/in/itwzhao/).
 
 
 
