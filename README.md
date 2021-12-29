@@ -6,13 +6,13 @@ More about me： [linkedin](https://www.linkedin.com/in/itwzhao/).
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 225 Contributions in the Year 2021
+> 🏆 229 Contributions in the Year 2021
  > 
-> 📦 135.4 kB Used in GitHub's Storage 
+> 📦 135.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,10 +23,10 @@ More about me： [linkedin](https://www.linkedin.com/in/itwzhao/).
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    92 commits     ██████░░░░░░░░░░░░░░░░░░░   23.53% 
-🌆 Daytime    230 commits    ██████████████░░░░░░░░░░░   58.82% 
-🌃 Evening    65 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
+🌞 Morning    92 commits     █████░░░░░░░░░░░░░░░░░░░░   23.29% 
+🌆 Daytime    233 commits    ██████████████░░░░░░░░░░░   58.99% 
+🌃 Evening    66 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.71% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01%
 
 ```
 
@@ -76,6 +76,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ybqdren/ybqdren/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/12/2021
+ Last Updated on 29/12/2021
 <!--END_SECTION:waka-->
 
