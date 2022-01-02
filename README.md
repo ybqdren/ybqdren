@@ -10,9 +10,9 @@ More about me： [linkedin](https://www.linkedin.com/in/itwzhao/).
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 2 Contributions in the Year 2022
  > 
-> 📦 137.8 kB Used in GitHub's Storage 
+> 📦 159.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,10 +23,10 @@ More about me： [linkedin](https://www.linkedin.com/in/itwzhao/).
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    92 commits     █████░░░░░░░░░░░░░░░░░░░░   22.94% 
-🌆 Daytime    239 commits    ███████████████░░░░░░░░░░   59.6% 
-🌃 Evening    66 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.46% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
+🌞 Morning    94 commits     █████░░░░░░░░░░░░░░░░░░░░   23.33% 
+🌆 Daytime    239 commits    ██████████████░░░░░░░░░░░   59.31% 
+🌃 Evening    66 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.38% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
 
 ```
 
@@ -76,6 +76,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ybqdren/ybqdren/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/01/2022
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
 
