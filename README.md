@@ -1,5 +1,5 @@
 :wave: Hi, my name is Zhao Wen and go by the name of Joan.
-More about me： [linkedin](https://www.linkedin.com/in/itwzhao/).
+More about  [me](https://sumry.me/ybqdren).
 
 
 
