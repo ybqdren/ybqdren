@@ -6,8 +6,6 @@ More about  [me](https://www.xing.com/profile/Wen_Zhao12).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2041%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -25,13 +23,6 @@ Groovy                   1 hr 11 mins        █░░░░░░░░░░�
 🔥 Editors: 
 IntelliJ                 29 hrs 40 mins      ██████████████████████░░░   88.98% 
 VS Code                  3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.02%
-
-🐱‍💻 Projects: 
-ctest-springboot         6 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25% 
-spring                   3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.89% 
-micat-backend            3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
-lin-cms-java-core        2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.93% 
-dormitory_management_syst2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.84%
 
 ```
 
