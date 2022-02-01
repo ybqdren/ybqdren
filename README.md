@@ -1,5 +1,4 @@
 :wave: Hi, my name is Zhao Wen and go by the name of Joan.
-More about  [me](https://www.xing.com/profile/Wen_Zhao12).
 
 
 <!--START_SECTION:waka-->
