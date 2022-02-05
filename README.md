@@ -2,8 +2,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2049%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -42,6 +40,6 @@ C                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ybqdren/ybqdren/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/02/2022 03:17:35 UTC
+ Last Updated on 05/02/2022 18:42:08 UTC
 <!--END_SECTION:waka-->
 
