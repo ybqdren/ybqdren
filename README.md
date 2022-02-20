@@ -1,4 +1,4 @@
-:wave: Hi, my name is Zhao Wen and go by the name of Joan.
+:wave: Hi, my name is Zhao Wen and go by the name of Joan.More about me:[N](https://ybqdren.notion.site/ybqdren/Wen-Zhao-Java-03c1dd267cf5427c908cc5a01541717e#87ea0dc56cb8450ba3de4224c8e5806c)
 
 
 <!--START_SECTION:waka-->
