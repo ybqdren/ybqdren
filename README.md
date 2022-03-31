@@ -6,8 +6,6 @@ More about me: [Notion](https://ybqdren.notion.site/ybqdren/Wen-Zhao-Java-03c1dd
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%205%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -46,6 +44,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ybqdren/ybqdren/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/03/2022 08:46:42 UTC
+ Last Updated on 31/03/2022 18:53:15 UTC
 <!--END_SECTION:waka-->
 
