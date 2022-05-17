@@ -2,8 +2,6 @@
 
 My code time: [@ybqdren](https://wakatime.com/@ybqdren).
 
-More about me: [Notion](https://ybqdren.notion.site/ybqdren/Wen-Zhao-Java-03c1dd267cf5427c908cc5a01541717e)
-
 
 <!--START_SECTION:waka-->
 
