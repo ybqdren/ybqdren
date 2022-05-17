@@ -1,12 +1,11 @@
 :wave: Hi, my name is Zhao Wen and go by the name of Joan.
 
-My Code Time: [@ybqdren](https://wakatime.com/@ybqdren).
+My code time: [@ybqdren](https://wakatime.com/@ybqdren).
 
 More about me: [Notion](https://ybqdren.notion.site/ybqdren/Wen-Zhao-Java-03c1dd267cf5427c908cc5a01541717e)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
